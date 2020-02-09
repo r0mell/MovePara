@@ -146,6 +146,7 @@ public class MainActivity extends AppCompatActivity {
         i.putExtra("alcance",String.valueOf( alcance));
         startActivity(i);
 
+
     }
 }
 
