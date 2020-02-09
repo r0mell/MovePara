@@ -65,7 +65,7 @@ public class Grafica extends AppCompatActivity {
         startActivity(i);
 
     }
-
+    //funcion para mostrar posteriormente los datos
     public void actualizar(ArrayList<String> coordenadaX, ArrayList<String> coordenadaY) {
 
         TextView coorX;
