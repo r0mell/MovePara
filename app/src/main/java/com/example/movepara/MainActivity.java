@@ -145,6 +145,7 @@ public class MainActivity extends AppCompatActivity {
         i.putStringArrayListExtra("coorY", coordenadaY);
         i.putExtra("alcance",String.valueOf( alcance));
         startActivity(i);
+
     }
 }
 
