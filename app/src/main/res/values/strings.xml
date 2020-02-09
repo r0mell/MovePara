@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovePara</string>
+
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtAngulo">grados</string>
+    <string name="txtVelocidad">m/s</string>
+    <string name="btnGraficar">Graficar</string>
+    <string name="btnAtras">Atras</string>
+
+</resources>
